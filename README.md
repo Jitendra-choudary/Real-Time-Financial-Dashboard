@@ -3,11 +3,7 @@
 ![Dashboard Screenshot](path/to/your/screenshot.png)
 
 ## Description
-<<<<<<< HEAD
 Built a financial dashboard to track expenses, visualize financial data, and provide insights using machine learning models.
-=======
-A financial dashboard to track expenses, visualize financial data, and provide insights using machine learning models.
->>>>>>> 07c18a5 (Initial commit with project structure and basic setup)
 
 ## Technologies Used
 - Python
@@ -33,9 +29,5 @@ A financial dashboard to track expenses, visualize financial data, and provide i
 ## Installation
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/jitendra-choudary/real-time-financial-dashboard.git
-=======
-   git clone https://github.com/your-username/real-time-financial-dashboard.git
->>>>>>> 07c18a5 (Initial commit with project structure and basic setup)
    cd real-time-financial-dashboard
